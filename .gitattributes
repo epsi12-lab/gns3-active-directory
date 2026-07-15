@@ -1,2 +1,2 @@
-*.conf linguist-detectable=false
 captures/* linguist-detectable=false
+*.md linguist-documentation
